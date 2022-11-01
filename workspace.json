@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "cda444f4abe450b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8f613c027c87f9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "637acafda92a4bd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML CSS/Display.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bab12dd536a8eac0",
+    "type": "split",
+    "children": [
+      {
+        "id": "763ec824819d7c0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2324f5de0dfb7a38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e5adc36aee79c69",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "80667b06bff3a9c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219
+  },
+  "right": {
+    "id": "ac2de76411a5c364",
+    "type": "split",
+    "children": [
+      {
+        "id": "185a3a0056d69743",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b42cf4c8007e422e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HTML CSS/Display.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a75dde870aae0c78",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HTML CSS/Display.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d99e8daa89fff256",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3b449c5c166a7f54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HTML CSS/Display.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "637acafda92a4bd2",
+  "lastOpenFiles": [
+    "HTML CSS/Font style.md",
+    "HTML CSS/Transform Method (Dịch chuyển phần tử).md",
+    "HTML CSS/Transform img.png",
+    "HTML CSS/Specificity CSS (Độ ưu tiên CSS).md",
+    "HTML CSS/Selector.md",
+    "HTML CSS/Spacing.md",
+    "HTML CSS/Position.md",
+    "HTML CSS/Display.md",
+    "HTML CSS/Inhentance (Sự thừa kế).md",
+    "Excalidraw/Drawing 2022-11-01 16.37.02.excalidraw.md"
+  ]
+}
